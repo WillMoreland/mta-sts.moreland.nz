@@ -1,4 +1,4 @@
-cversion: STSv1
+version: STSv1
 mode: enforce
 mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
